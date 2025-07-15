@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Muhammad+Nashir+Lidienillah;Informatics+Engineering+Student;Web+Developer+%26+UI%2FX+Enthusiast;Future+Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Muhammad+Nashir+Lidienillah;Informatics+Engineering+Student;Web+Developer+%26+UI%2FUX+Enthusiast;Future+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 ### 🏆 Pencapaian GitHub Saya
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[GANTI-DENGAN-USERNAME-GITHUB-ANDA]&theme=tokyonight&row=1&column=7" alt="NashirLidienillah" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NashirLidienillah&theme=tokyonight&row=1&column=7" alt="NashirLidienillah" />
 </p>
 
 <hr>
