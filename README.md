@@ -47,8 +47,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[GANTI-DENGAN-USERNAME-GITHUB-ANDA]&show_icons=true&locale=en&theme=tokyonight" alt="[GANTI-DENGAN-USERNAME-GITHUB-ANDA]" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[GANTI-DENGAN-USERNAME-GITHUB-ANDA]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[GANTI-DENGAN-USERNAME-GITHUB-ANDA]" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NashirLidienillah&show_icons=true&locale=en&theme=tokyonight" alt="NashirLidienillah" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NashirLidienillah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NashirLidienillah" />
 </p>
 
 ---
@@ -56,6 +56,6 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/[USERNAME-LINKEDIN-ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[USERNAME-LINKEDIN-ANDA]" height="30" width="40" /></a>
-<a href="https://instagram.com/[USERNAME-INSTAGRAM-ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[USERNAME-INSTAGRAM-ANDA]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-nashir-lidienillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nashir-lidienillah" height="30" width="40" /></a>
+<a href="https://instagram.com/nashld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nashld_" height="30" width="40" /></a>
 </p>
